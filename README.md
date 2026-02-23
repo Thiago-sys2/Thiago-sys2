@@ -20,6 +20,33 @@ Me chamo Thiago Soares Sousa, tenho 18 anos e sou natural do Ceará. Concluí o 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
+<img
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+/>
+
+<img
+    align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+
+<img
+    align="left" 
+    alt="Dbeaver"
+    title="Dbeaver" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+/>
+
 <br/>
 <br/>
 
