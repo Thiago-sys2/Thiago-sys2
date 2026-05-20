@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Soares
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio na Escola Profissional Francisco Paiva Tavares - Caridade CE, com o curso técnico em informática. Atualmente, estou cursando Redes de Computadores pelo o IFCE. Sou apaixonado por tecnologia , em especifico o mundo da programação e dei inicio na área a algum tempo. Segue abaixo as minhas redes sociais pessoal e profissional:
 
@@ -18,6 +18,33 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Dbeaver"
+    title="Dbeaver" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img
@@ -40,11 +67,38 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
+/>
+
+<img
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+/>
+
+<img
+    align="left" 
     alt="Dbeaver"
     title="Dbeaver" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Postgres"
+    title="Postgres" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
 <br/>
