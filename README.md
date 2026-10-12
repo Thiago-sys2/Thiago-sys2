@@ -22,17 +22,44 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img 
     align="left" 
-    alt="Spring boot"
-    title="Spring boot" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
+<img 
+    align="left" 
+    alt="Pyhton"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Django"
+    title="Django" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+/>
+
 <img
     align="left" 
-    alt="Dbeaver"
-    title="Dbeaver" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
@@ -40,8 +67,8 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
-    alt="Postgres"
-    title="Postgres" 
+    alt="Typescript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
@@ -49,8 +76,8 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
-    alt="Postgres"
-    title="Postgres" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -76,8 +103,8 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
-    alt="Postgres"
-    title="Postgres" 
+    alt="MariaDB"
+    title="MariaDB" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
@@ -85,8 +112,8 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
-    alt="Docker"
-    title="Docker" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
@@ -103,8 +130,8 @@ Me chamo Thiago Soares Sousa, tenho 19 anos e sou natural do Ceará. Concluí o 
 
 <img
     align="left" 
-    alt="Postgres"
-    title="Postgres" 
+    alt="Postman"
+    title="Postman" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
